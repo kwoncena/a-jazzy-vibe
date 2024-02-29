@@ -6,7 +6,6 @@ body{
 }
 
 
-
 .page{
 
     display: flex;
@@ -49,6 +48,7 @@ h2{
 
 .video-container{
 
+    display: flex;
     position: relative;
     padding-bottom:56.25%;
     height: 0;
