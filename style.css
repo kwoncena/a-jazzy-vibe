@@ -72,7 +72,9 @@ h2{
 }
 
 .nav-item {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: #333;
     flex-direction: column;
     justify-content: center;
     align-items: center;
