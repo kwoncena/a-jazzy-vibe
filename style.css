@@ -30,7 +30,8 @@ h1{
 }
 
 h2{
-
+    display: flex;
+    justify-content: center;
     color: #FAEEDE;
     font-family: monospace;
 }
