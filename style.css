@@ -23,6 +23,8 @@ body{
 }
 
 h1{
+    display: flex;
+    justify-content: center;
     color: #C89D66;
     font-family: cursive, serif;
 }

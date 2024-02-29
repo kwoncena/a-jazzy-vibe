@@ -22,12 +22,15 @@ body{
 }
 
 h1{
+    display: flex;
+    justify-content: center;
     color: #C89D66;
     font-family: cursive, serif;
 }
 
 h2{
-
+    display: flex;
+    justify-content: center;
     color: #FAEEDE;
     font-family: monospace;
 }
