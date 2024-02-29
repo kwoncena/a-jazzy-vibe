@@ -68,6 +68,7 @@ h2{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     background-color: #333;
+    
 }
 
 .nav-item {
@@ -75,7 +76,7 @@ h2{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: #C89D66;
     cursor: pointer;
 }
 
