@@ -1,0 +1,15 @@
+.content{
+
+    display: flex;
+
+}
+
+.image-container{
+
+    flex-grow: 1;
+    height: 100px;
+}
+
+.image-container + .image-container{
+    margin-left: 2%;
+}
