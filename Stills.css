@@ -39,15 +39,14 @@ h2{
 .image-container{
 
     display: flex;
-    justify-content: center;
+  flex-wrap: wrap;
+  padding: 0 4px;
 }
 
-.image-link{
+.img{
 
-    display: block;
-    max-width:100%;
-    height: auto;
-    margin-top: 20px;
+    margin-top: 8px;
+    vertical-align: middle;
 }
 
 
